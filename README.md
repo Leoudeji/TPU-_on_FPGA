@@ -1,5 +1,9 @@
 # TPU_on_FPGA
-In this research, we create a TPU with vector processing capabilities on an FPGA to study possible design bottlenecks.
+Vectorized arithmetic operations are made possible using vector registers, which have a complex instruction set for efficient parallel processing. 
+Platforms like FPGA make rapid hardware simulations possible and
+Emulators like QEMU help to emulate the RISC-V vector architecture.
+
+In this research, we design a mini-TPU with vector processing capabilities on an FPGA to identify potential design bottlenecks.
 
 
 # References
