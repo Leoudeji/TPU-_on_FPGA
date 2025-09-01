@@ -1,8 +1,8 @@
-# TPU-_on_FPGA
+# TPU_on_FPGA
 In this research, we create a TPU with vector processing capabilities on an FPGA to study possible design bottlenecks.
 
 
-#References
+# References
 [1] TPU_V4 (https://arxiv.org/abs/2304.01433) 
 
 [2] RISC_V_ISA Samsung Research (https://research.samsung.com/blog/RISC-V-and-Vectorization) 
